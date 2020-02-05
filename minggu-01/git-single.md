@@ -18,4 +18,4 @@ credential. helpermanager
 user. email=riandyahdaal@gmail.com
 Student@DESKTOP-B8ACH4F MINGW64 -/Desktop 
 $user. email=riandyahdaal@gmail.com bash: user. email=riandyahdaal@gmail.com: command not found Student@DESKTOP-B8ACH4F MINGW64 -/Desktop
-$user.name=riandyahdaal bash: user.name=riandyahdaal: command not found Student@DESKTOP-B8ACH4F MINGW64 ~/Desktop $user.name=riandyahdaalmujahid bash: user.name=riandyahdaalmujahid: command not found Student@DESKTOP-B8ACH4F MINGW64 -/Desktop
+$user.name=riandyahdaalmujahid bash: user.name=riandyahdaalmujahid: command not found Student@DESKTOP-B8ACH4F MINGW64 -/Desktop

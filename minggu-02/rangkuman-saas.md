@@ -35,3 +35,13 @@ Berikut adalah dua varietas utama SaaS:
  * Perangkat Lunak yang menjawab kebutuhan industri tertentu (mis., Perangkat lunak untuk kesehatan, pertanian, real estat, industri          keuangan)
  * SaaS Horisontal
  * Produk-produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+
+
+
+         **3.SAAS (Software as a Service) Platform Architecture**
+         
+SaaS juga merupakan salah satu pilar utama komputasi awan. Sebuah ledakan dalam komputasi Cloud, didorong oleh penyedia cloud seperti Microsoft dengan Azure atau Amazon dengan AWS, telah melihat pertumbuhan produk dan layanan lain yang disampaikan melalui internet seperti: 
+   * Infrastruktur sebagai Layanan
+   * Platform sebagai Layanan
+   * Pembelajaran Mesin sebagai Layanan
+      

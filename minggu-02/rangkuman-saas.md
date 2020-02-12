@@ -44,4 +44,15 @@ SaaS juga merupakan salah satu pilar utama komputasi awan. Sebuah ledakan dalam 
    * Infrastruktur sebagai Layanan
    * Platform sebagai Layanan
    * Pembelajaran Mesin sebagai Layanan
+   
+   
+         **4.How to build a cloud-based SaaS application**
+    
+   **Build For The Cloud**
+   Saat membangun aplikasi SaaS (global), ada kemungkinan besar bahwa akan membangunnya di cloud. Cloud memiliki banyak keunggulan - pikirkan skalabilitas - berbeda dengan lingkungan server lokal.
+   
+   **Which programming language?**
+   Selain kemampuan dan keterampilan pribadi, pilihan bahasa pemrograman Anda akan mempengaruhi kemungkinan masing-masing bahasa. Ada berbagai bahasa pemrograman (modern) di luar sana sehingga sulit untuk memilih yang benar.
       
+   **The perfect database**
+    salah satu hal pertama dalam daftar Anda mencakup pemasangan basis data. Di penggunaan basis data berorientasi dokumen. Database dokumen sangat berbeda dengan konsep tradisional database yang relasional.

@@ -1,4 +1,4 @@
-**What is the difference between IaaS, SaaS, and Paas?**
+**1.What is the difference between IaaS, SaaS, and Paas?**
 
 **SaaS: Software as a Service**
   Pengguna menggunakan aplikasi ini melalui Internet. 
@@ -17,3 +17,9 @@ Amazon (AWS) adalah vendor terkemuka dalam menyediakan IaaS.
     # Mereka tidak secara langsung membuat VM.
 PaaS itu sederhana dan itulah sebabnya banyak digunakan. Tetapi ini tidak benar. 
 IaaS adalah 10 kali populer dari PaaS. Pengembang ingin memiliki kontrol lebih besar atas sumber daya.
+
+**2.SAAS (Software as a Service) Platform Architecture**
+   Perangkat lunak sebagai layanan adalah model lisensi dan pengiriman perangkat lunak di mana perangkat 
+lunak dilisensikan berdasarkan berlangganan dan di-host secara terpusat. Pengguna dapat mengaksesnya dengan 
+bantuan browser web.
+  Penyedia SaaS menyimpan aplikasi dan data secara terpusat - tambalan penyebaran. Mereka meningkatkan ke aplikasi secara transparan, memberikan akses ke pengguna akhir melalui Internet. Banyak vendor menyediakan API yang digunakan pengembang untuk membuat aplikasi komposit. Ini berisi berbagai mekanisme keamanan untuk keamanan data selama transmisi dan penyimpanan.

@@ -19,6 +19,7 @@ PaaS itu sederhana dan itulah sebabnya banyak digunakan. Tetapi ini tidak benar.
 IaaS adalah 10 kali populer dari PaaS. Pengembang ingin memiliki kontrol lebih besar atas sumber daya.
 
 **2.SAAS (Software as a Service) Platform Architecture**
+   
    Perangkat lunak sebagai layanan adalah model lisensi dan pengiriman perangkat lunak di mana perangkat 
 lunak dilisensikan berdasarkan berlangganan dan di-host secara terpusat. Pengguna dapat mengaksesnya dengan 
 bantuan browser web.

@@ -1,4 +1,4 @@
-ianmujahid@Rianesians:~$ $sudo docker -v
+rianmujahid@Rianesians:~$ $sudo docker -v
 
 Command 'docker' not found, but can be installed with:
 
